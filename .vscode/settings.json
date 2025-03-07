@@ -1,0 +1,9 @@
+{
+  "rust-analyzer.check.targets": null,
+  "[rust]": {
+            "editor.defaultFormatter": "rust-lang.rust-analyzer"
+    },
+    "editor.formatOnSave": true,
+    "editor.formatOnPaste": true,
+    "editor.formatOnType": true
+}
